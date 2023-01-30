@@ -1,4 +1,4 @@
-# OutputCaching.Sample
+# OutputCacheRedis.DependencyInjection
 
 As you all know , Microsoft released with ASP .NET Core 7.0 a new middleware named Output caching middleware.
 
